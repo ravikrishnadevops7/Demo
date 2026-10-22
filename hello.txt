@@ -1,0 +1,4 @@
+Welcome to Jenkins and GitHub Integration!
+
+This is my first DevOps practical.
+Jenkins is fetching this file from GitHub.
