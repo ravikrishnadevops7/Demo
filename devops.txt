@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello,this is my first devops job searching 
+=======
+I am learning DevOps, AWS, Git and GitHub
+>>>>>>> fa2b1157fc49d4e3ab157e1b8fd903d4b5f46ae1
