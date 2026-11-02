@@ -1,0 +1,10 @@
+BOOK DETAILS
+
+Book ID: B101
+Book Name: Python Programming
+Author: James
+Publisher: Tech Publications
+Price: 450
+Category: Programming
+
+
